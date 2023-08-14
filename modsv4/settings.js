@@ -1,6 +1,6 @@
 require("./module")
 
-global.owner = "6282210819939"
+global.owner = "6283843594670"
 global.namabot = "Djamet"
 global.namaCreator = "Djamet Botz"
 global.autoJoin = true
