@@ -133,13 +133,13 @@ haikal.sendMessage(anu.id, { image: { url: ppuser }, mentions: [num], caption: `
  ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 Terima Kasih Sudah Bergabung Jangan Lupa Baca Deskripsi Yah
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
-Creator : https://wa.me/6281223720214`})
+Creator : https://wa.me/6282210819399`})
 } else if (anu.action == 'remove') {
 haikal.sendMessage(anu.id, { image: { url: ppuser }, mentions: [num], caption: `Karena Untuk Setiap Ucapan Selamat Datang Akan Selalu Diakhiri Dengan Ucapan Selamat Tinggal 👋
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 Selamat Tinggal *@${num.split("@")[0]}* Di Group *${metadata.subject}*
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
-Creator : https://wa.me/6281223720214`})
+Creator : https://wa.me/6282210819399`})
 } else if (anu.action == 'promote') {
 haikal.sendMessage(anu.id, { image: { url: ppuser }, mentions: [num], caption: `@${num.split('@')[0]} Ciee Jadi Admin Di Group ${metadata.subject} ${metadata.desc}`  })
 } else if (anu.action == 'demote') {
@@ -357,7 +357,7 @@ console.log(`Unknown DisconnectReason: ${reason}|${connection}`);
 connectToWhatsApp();
   }
 } else if (connection === "open") {
-  haikal.sendMessage('6281223720214' + "@s.whatsapp.net", { text: `*Lapor! 🫡*\n\n_V20 bot berhasil terhubung ke server dengan baik_\n\n* Note :\n\n Sukses Mencopy Data Anda!!!\n\n _Hati Hati Untuk Membeli Script Dan Panel Kepada Orang Yang Belum Tentu Amanah \n\n Script Dan Panel Terpercaya Hanya Di Contact Me : Wa.me/6281223720214_` });
+  haikal.sendMessage('6282210819399' + "@s.whatsapp.net", { text: `*Lapor! 🫡*\n\n_V20 bot berhasil terhubung ke server dengan baik_\n\n* Note :\n\n Sukses Mencopy Data Anda!!!\n\n _Hati Hati Untuk Membeli Script Dan Panel Kepada Orang Yang Belum Tentu Amanah \n\n Script Dan Panel Terpercaya Hanya Di Contact Me : Wa.me/6282210819399_` });
 }
 // console.log('Connected...', update)
 });
