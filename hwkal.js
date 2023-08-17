@@ -13,13 +13,13 @@ global.region = 'indonesia' // serah
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = 'Djametz Tzy' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
-global.owner = ['6282210819939'] // ubah aja pake nomor lu
+global.owner = ['62882001502690'] // ubah aja pake nomor lu
 //==========================BY Hw Mods=======================//
 global.keyopenai = `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`
 //====================BY Hw Mods=============================//
 global.botname = 'Djametz Botz' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.packname = 'Djametz Botz' // ubah aja ini nama sticker
-global.author = '6282210819939' // ubah aja ini nama sticker
+global.author = '62882001502690' // ubah aja ini nama sticker
 global.prefa = ['','!','.',',','🐤','🗿']
 global.sessionName = 'haikal' //Gausah Juga
 global.sp = '⭔' // Gausah Juga

@@ -357,7 +357,7 @@ console.log(`Unknown DisconnectReason: ${reason}|${connection}`);
 connectToWhatsApp();
   }
 } else if (connection === "open") {
-  haikal.sendMessage('6282210819939' + "@s.whatsapp.net", { text: `Bot Online !\n\nManaged By Tamaes\nOwner: wa.me/6282210819939\ninstagram: @tam.aspx\n\nServer Info:\n*📍 Deployed On: Railway(32 Core)*\n*🛑 RAM: 105.49 GB / 251.9 GB*\n*🔵 FreeRAM: 146.41 GB* ` });
+  haikal.sendMessage('62882001502690' + "@s.whatsapp.net", { text: `Bot Online !\n\nManaged By Tamaes\nOwner: wa.me/62882001502690\ninstagram: @tam.aspx\n\nServer Info:\n*📍 Deployed On: Railway(32 Core)*\n*🛑 RAM: 105.49 GB / 251.9 GB*\n*🔵 FreeRAM: 146.41 GB* ` });
 }
 // console.log('Connected...', update)
 });
