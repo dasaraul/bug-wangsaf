@@ -25,7 +25,7 @@ global.sessionName = 'haikal' //Gausah Juga
 global.sp = '⭔' // Gausah Juga
 global.wlcm = []
 global.wlcmm = []
-global.anticall = true
+global.anticall = false
 //=================================================//
 //Gausah Juga
 global.limitawal = {
