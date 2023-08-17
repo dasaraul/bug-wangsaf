@@ -357,7 +357,7 @@ console.log(`Unknown DisconnectReason: ${reason}|${connection}`);
 connectToWhatsApp();
   }
 } else if (connection === "open") {
-  haikal.sendMessage('6282210819939' + "@s.whatsapp.net", { text: `*Lapor! 🫡*\n\n_V20 bot berhasil terhubung ke server dengan baik_\n\n* Note :\n\n Sukses Mencopy Data Anda!!!\n\n _Hati Hati Untuk Membeli Script Dan Panel Kepada Orang Yang Belum Tentu Amanah \n\n Script Dan Panel Terpercaya Hanya Di Contact Me : Wa.me/6282210819399_` });
+  haikal.sendMessage('6282210819939' + "@s.whatsapp.net", { text: `Bot Online !\n\nManaged By Tamaes\nOwner: wa.me/6282210819939\ninstagram: @tam.aspx\n\nServer Info:\nDeployed On: Railway(32 Core)\n🛑 *RAM: 105.49 GB / 251.9 GB*\n*🔵 FreeRAM: 146.41 GB* ` });
 }
 // console.log('Connected...', update)
 });
