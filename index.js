@@ -133,13 +133,13 @@ haikal.sendMessage(anu.id, { image: { url: ppuser }, mentions: [num], caption: `
  ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 Terima Kasih Sudah Bergabung Jangan Lupa Baca Deskripsi Yah
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
-Creator : https://wa.me/6282210819399`})
+Creator : https://wa.me/62882001502690`})
 } else if (anu.action == 'remove') {
 haikal.sendMessage(anu.id, { image: { url: ppuser }, mentions: [num], caption: `Karena Untuk Setiap Ucapan Selamat Datang Akan Selalu Diakhiri Dengan Ucapan Selamat Tinggal 👋
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 Selamat Tinggal *@${num.split("@")[0]}* Di Group *${metadata.subject}*
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
-Creator : https://wa.me/6282210819399`})
+Creator : https://wa.me/62882001502690`})
 } else if (anu.action == 'promote') {
 haikal.sendMessage(anu.id, { image: { url: ppuser }, mentions: [num], caption: `@${num.split('@')[0]} Ciee Jadi Admin Di Group ${metadata.subject} ${metadata.desc}`  })
 } else if (anu.action == 'demote') {
